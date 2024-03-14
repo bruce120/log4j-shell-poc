@@ -15,11 +15,12 @@ pip install -r requirements.txt
 ```
 #### Usage:
 
-jdk change 
+* jdk change 
 ```
 wget https://repo.huaweicloud.com/java/jdk/8u181-b13/jdk-8u181-linux-x64.tar.gz
-jdk1.8.0_181 to jdk1.8.0_20
-
+```
+* jdk1.8.0_181 to jdk1.8.0_20
+```
 mv jdk1.8.0_181 jdk1.8.0_20
 ```
 
