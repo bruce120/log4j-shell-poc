@@ -15,6 +15,13 @@ pip install -r requirements.txt
 ```
 #### Usage:
 
+jdk change 
+```
+wget https://repo.huaweicloud.com/java/jdk/8u181-b13/jdk-8u181-linux-x64.tar.gz
+jdk1.8.0_181 to jdk1.8.0_20
+
+mv jdk1.8.0_181 jdk1.8.0_20
+```
 
 * Start a netcat listener to accept reverse shell connection.<br>
 ```py
